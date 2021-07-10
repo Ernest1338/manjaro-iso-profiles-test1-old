@@ -241,6 +241,7 @@ systemd-kcm
 >extra thunderbird
 >extra vlc
 yakuake
+leafpad
 
 ## Optional dependencis for cantata
 >extra mpd       # playback
