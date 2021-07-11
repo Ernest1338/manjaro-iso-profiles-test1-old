@@ -1,14 +1,14 @@
 ---
-componentName:  DDMJOS
+componentName:  manjaro
 
 strings:
-    productName:         DDMJ OS
-    shortProductName:    DDMJOS
+    productName:         Manjaro Linux
+    shortProductName:    Manjaro
     version:             20.1 OEM
     shortVersion:        20.1 OEM
-    versionedName:       DDMJ OS 20.1 "refog" OEM
-    shortVersionedName:  DDMJOS 20.1 OEM
-    bootloaderEntryName: DDMJOS
+    versionedName:       Manjaro Linux 20.1 "Mikah" OEM
+    shortVersionedName:  Manjaro 20.1 OEM
+    bootloaderEntryName: Manjaro
 
 images:
     productLogo:         "logo.png"
