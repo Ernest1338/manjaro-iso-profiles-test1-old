@@ -4,8 +4,8 @@ componentName:  DDMJOS
 strings:
     productName:         DDMJ OS
     shortProductName:    DDMJOS
-    version:             20.1 DDMJ
-    shortVersion:        20.1 DDMJ
+    version:             20.1 OEM
+    shortVersion:        20.1 OEM
     versionedName:       DDMJ OS 20.1 "refog" OEM
     shortVersionedName:  DDMJOS 20.1 OEM
     bootloaderEntryName: DDMJOS
